@@ -23,7 +23,6 @@ To get started with this project, follow these steps:
 2. Clone the repository to your local machine:
    git clone https://github.com/your-username/todo-list-app.git
     3. Install dependencies:
-       cd todo-list-app
        npm install
     4. Start the development server:
        npm run dev
